@@ -1,5 +1,14 @@
 # Azure Governance
 
+## Azure Governance
+
+- Naming convention: Name Azure resources
+- Resource tagging
+- Prevent the accidental deletion of resources (Locks)
+- Who can create, manage, and access resources (RBAC)
+- Create resources (Policies)
+
+
 ## Glossary
 
 Tenant
@@ -11,25 +20,30 @@ Resource
 
 ## Naming conventions
 
+Reference:
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+- https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
+
 ## Tags
+
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json
 
 ## Locks
 
-## Azure Policy
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
 
-Reference:
+## Azure Policy
 
 - https://docs.microsoft.com/en-us/azure/governance/policy/overview
 
 ## RBAC (Role based access control)
 
-- Principle of least privilege
-
-Reference:
+- https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+- Video: https://youtu.be/Dzhm-garKBM
 
 ## Management Groups
 
-Reference:
 - https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
 
 ## Blue Prints
@@ -38,6 +52,5 @@ Reference:
 
 ## Cost Management
 
-Reference:
 - https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
 
