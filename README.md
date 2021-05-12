@@ -25,6 +25,20 @@
 
 - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/guides/standard/
 
+## Resource Hierarchy
+
+```text
+Tenant
+ \ 
+  Management Group
+   \
+    Subscription
+     \
+      Resource Group
+       \
+        Resources
+```
+
 ## Naming conventions
 
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules
