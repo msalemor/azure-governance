@@ -65,7 +65,7 @@ Blueprints are a declarative way to orchestrate the deployment of various resour
 - Azure Resource Manager templates (ARM templates)
 - Resource Groups
 
-
+Reference:
 - https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
 - https://docs.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal
 
