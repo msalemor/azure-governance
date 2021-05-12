@@ -2,7 +2,7 @@
 
 ## Azure Governance
 
-- How do I name my name my resources in Azure?
+- How do I name my resources in Azure?
   - Naming conventions
 - What is tagging useful for? How do I tag my resources?
   - Tags
@@ -14,13 +14,6 @@
   - RBAC
 - How can I manage multiple subscriptions?
   - Management groups
-
-## Glossary
-
-Tenant
-Subscription
-Resouce Group
-Resource
 
 ## Why Governance
 
