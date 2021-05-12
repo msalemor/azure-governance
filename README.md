@@ -28,16 +28,16 @@
 ## Resource Hierarchy
 
 ```text
-Tenant
- \ 
-  Management Group
+Management Group
+ \
+  Subscriptions
    \
-    Subscription
+    Resource Groups
      \
-      Resource Group
-       \
-        Resources
+      Resources
 ```
+
+- https://docs.microsoft.com/en-us/azure/governance/management-groups/overview#hierarchy-of-management-groups-and-subscriptions
 
 ## Naming conventions
 
