@@ -58,14 +58,17 @@
 
 ## Blue Prints
 
-- https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
-
 Blueprints are a declarative way to orchestrate the deployment of various resource templates and other artifacts such as:
 
 - Role Assignments
 - Policy Assignments
 - Azure Resource Manager templates (ARM templates)
 - Resource Groups
+
+
+- https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
+- https://docs.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal
+
 
 ## Cost Management
 
