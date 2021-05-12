@@ -17,6 +17,14 @@
 
 ## Why Governance
 
+- Control cost
+- Meet compliance requirements
+- Meet security requirements
+
+## Governance Adoption
+
+- https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/guides/standard/
+
 ## Naming conventions
 
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules
@@ -34,12 +42,14 @@
 ## Azure Policy
 
 - https://docs.microsoft.com/en-us/azure/governance/policy/overview
+- https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
 
 ## RBAC (Role based access control)
 
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 - Video: https://youtu.be/Dzhm-garKBM
+- https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
 
 ## Management Groups
 
