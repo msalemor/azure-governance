@@ -2,12 +2,18 @@
 
 ## Azure Governance
 
-- Naming convention: Name Azure resources
-- Resource tagging
-- Prevent the accidental deletion of resources (Locks)
-- Who can create, manage, and access resources (RBAC)
-- Create resources (Policies)
-
+- How do I name my name my resources in Azure?
+  - Naming conventions
+- What is tagging useful for? How do I tag my resources?
+  - Tags
+- How do I prevent the accidental deletion of resources? 
+  - Locks
+- How do I prevent from expensive resource of being created, for example?
+  - Policies
+- Who can create, manage, and access resources?
+  - RBAC
+- How can I manage multiple subscriptions?
+  - Management groups
 
 ## Glossary
 
@@ -20,7 +26,6 @@ Resource
 
 ## Naming conventions
 
-Reference:
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
 - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
@@ -40,6 +45,7 @@ Reference:
 ## RBAC (Role based access control)
 
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+- https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 - Video: https://youtu.be/Dzhm-garKBM
 
 ## Management Groups
@@ -49,6 +55,13 @@ Reference:
 ## Blue Prints
 
 - https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
+
+Blueprints are a declarative way to orchestrate the deployment of various resource templates and other artifacts such as:
+
+- Role Assignments
+- Policy Assignments
+- Azure Resource Manager templates (ARM templates)
+- Resource Groups
 
 ## Cost Management
 
