@@ -70,6 +70,10 @@ Management Group
 
 - https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
 
+## ARM Templates (IaC)
+
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
 ## Blue Prints
 
 Blueprints are a declarative way to orchestrate the deployment of various resource templates and other artifacts such as:
