@@ -47,6 +47,7 @@
 ## RBAC (Role based access control)
 
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+- https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 - Video: https://youtu.be/Dzhm-garKBM
 - https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
