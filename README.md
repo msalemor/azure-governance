@@ -57,6 +57,7 @@ Management Group
 
 - https://docs.microsoft.com/en-us/azure/governance/policy/overview
 - https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+- https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition
 
 ## RBAC (Role based access control)
 
@@ -86,9 +87,4 @@ Blueprints are a declarative way to orchestrate the deployment of various resour
 Reference:
 - https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
 - https://docs.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal
-
-
-## Cost Management
-
-- https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
 
